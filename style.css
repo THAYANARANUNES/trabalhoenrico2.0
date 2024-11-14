@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #5e998f;
     padding: 20px;
 }
 
@@ -16,6 +16,22 @@ body {
 h1 {
     text-align: center;
     color: #333;
+}
+.tetano{
+text-align: center;
+}
+
+.imagem-container {
+    display: flex;                
+    justify-content: center;      
+    align-items: center;          
+    height: 55vh;                
+    margin: 0;                    
+}
+
+.imagem {
+    max-width: 50%;            
+    height: auto;               
 }
 
 .question {
@@ -78,4 +94,8 @@ button:hover {
     border: 1px solid #f5c6cb;
     padding: 10px;
     border-radius: 5px;
+}
+
+.teline {
+    text-align: center;
 }

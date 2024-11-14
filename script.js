@@ -1,36 +1,36 @@
 // Definição das perguntas e respostas corretas
 const quizData = [
     {
-        question: "Qual é a capital do Brasil?",
-        a: "Brasília",
-        b: "Rio de Janeiro",
-        c: "São Paulo",
-        d: "Salvador",
+        question: "Qual país sediou a Copa do Mundo de 2014?",
+        a: "Brasil",
+        b: "Alemanha",
+        c: "Argentina",
+        d: "França",
         correct: "a"
     },
     {
-        question: "Qual é o maior planeta do sistema solar?",
-        a: "Terra",
-        b: "Júpiter",
-        c: "Marte",
-        d: "Saturno",
-        correct: "b"
+        question: "Quem é conhecido como Rei do Futebol?",
+        a: "Zico",
+        b: "Neymar",
+        c: "Pelé",
+        d: "Ronaldinho",
+        correct: "c"
     },
     {
-        question: "Quem escreveu 'Dom Casmurro'?",
-        a: "Machado de Assis",
-        b: "Jorge Amado",
-        c: "Clarice Lispector",
-        d: "Guimarães Rosa",
+        question: "Em que time de futebol Neymar jogava antes de ir para o Barcelona?",
+        a: "Santos",
+        b: "Flamengo",
+        c: "Vasco",
+        d: "Botafogo",
         correct: "a"
     },
     {
-        question: "Qual é a fórmula da água?",
-        a: "H2O",
-        b: "CO2",
-        c: "O2",
-        d: "NaCl",
-        correct: "a"
+        question: "Qual desses jogadores é famoso por suas cobranças de falta?",
+        a: "Messi",
+        b: "Cristiano Ronaldo",
+        c: "Neymar",
+        d: "Roberto Carlos",
+        correct: "d"
     },
 ];
 
